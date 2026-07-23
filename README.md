@@ -40,7 +40,11 @@ This project is an interactives Excel dashboard built to analyze Indian clothing
 - Dashboard Screenshots
 
 
+## Dashboard Preview
 
+![Dashboard 1](Screenshot%202026-07-23%20091644.png)
+
+![Dashboard 2](Screenshot%202026-07-23%20091700.png)
 
 
 
